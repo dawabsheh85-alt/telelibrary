@@ -1,0 +1,32 @@
+<<<<<<< HEAD
+{
+  "name": "telegram-library-bot",
+  "version": "1.0.0",
+  "description": "An educational library bot for Telegram.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.65.1"
+  }
+=======
+{
+  "name": "telegram-library-bot",
+  "version": "1.0.0",
+  "description": "An educational library bot for Telegram.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.65.1"
+  }
+>>>>>>> e4740b82860a5e7e5921db2ca67bf8f8bcd47a85
+}
